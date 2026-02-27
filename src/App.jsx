@@ -3,12 +3,12 @@ import './App.css'
 function App() {
   return (
     <main className="container">
-      <h1>I'm Lucas.</h1>
+      <h1>Hi, I'm Lucas!</h1>
 
       <p className="about">
-        Computer Science, Artificial Intelligence, and Business Administration at 
+        I'm a Computer Science, Artificial Intelligence, and Business Administration student at 
         Ohio University. I'm interested in learning more about mobile & web development,
-        cloud computing, and machine learning. 
+        cloud computing, machine learning, and the business side of software and data. 
       </p>
 
       <div className="links">
