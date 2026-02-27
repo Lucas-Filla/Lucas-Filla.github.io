@@ -1,4 +1,4 @@
-# Personal Website
+# My Personal Website @ [lucasfilla.com](url)
 
 This repository is used to host a simple personal webpage built with [React](https://react.dev) and [Vite](https://vite.dev).
 
@@ -7,5 +7,4 @@ This repository is used to host a simple personal webpage built with [React](htt
 2. Short about section
 3. Contact information
 
-Check it out at [lucasfilla.com](url)
 
