@@ -8,7 +8,7 @@ function App() {
       <p className="about">
         I'm a Computer Science, Artificial Intelligence, and Business Administration student at 
         Ohio University. I'm interested in learning more about mobile & web development,
-        cloud computing, machine learning, and the business side of software and data. 
+        embedded systems, machine learning, and the business side of software and data. 
       </p>
 
       <div className="links">
