@@ -5,7 +5,7 @@ This is a lightweight, responsive website that serves as a digital business card
 Visit my site at [lucasfilla.com](url)!
 
 ## Features
--**Responsive Layout** - Quickly adapts to both computer and mobile visits. 
+- **Responsive Layout** - Quickly adapts to both computer and mobile visits. 
 - **Quick links** to my:
    - Github
    - LinkedIn
