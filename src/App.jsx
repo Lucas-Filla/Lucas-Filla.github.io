@@ -3,8 +3,8 @@ import './App.css'
 function App() {
   return (
     <main className="container">
-      <h1>Hi, I'm Lucas!</h1>
-
+      <h1>Lucas Filla</h1>
+      <h2>Student Software Engineer</h2>
       <p className="about">
         I'm a Computer Science, Artificial Intelligence, and Business Administration student at 
         Ohio University. I'm interested in learning more about mobile & web development,
@@ -15,6 +15,9 @@ function App() {
         <a href="https://github.com/Lucas-Filla" target="_blank" rel="noreferrer">GitHub</a>
         <a href="https://linkedin.com/in/lucasfilla" target="_blank" rel="noreferrer">LinkedIn</a>
         <a href="mailto:lucasbfilla@gmail.com">Email</a>
+        <a href="resumes/9112026" target="_blank">Resume</a>
+
+        
       </div>
     </main>
   )
