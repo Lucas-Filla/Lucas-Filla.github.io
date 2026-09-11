@@ -9,24 +9,34 @@ body {
   justify-content: center;
 }
 
-
-
+/* Making mobile default */
 .container {
-  max-width: 520px;
-  padding: 2rem;
+  width: 90%;
+  max-width: 450px;
+  padding: 2.5rem;
+  background-color: #f6eee3;
+  color: #1a1a1a;
+  box-sizing: border-box;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+@media (min-width: 768px){
+  .container {
+    max-width: 700px;
+  }
 }
 
 h1 {
   font-size: 3rem;
   font-weight: normal;
-  margin: 0 0 1.25rem 0;
 }
 
 .about {
   font-size: 1.1rem;
   line-height: 1.7;
-  color: #aaaaaa;
-  margin: 0 0 2rem 0;
+  color: #1a1a1a;
+  margin: 0.5rem 0 2rem 0;
 }
 
 .links {
@@ -35,15 +45,15 @@ h1 {
 }
 
 .links a {
-  color: #e0e0e0;
+  color: #1a1a1a;
   text-decoration: none;
   font-size: 1rem;
-  border-bottom: 1px solid #444;
+  border-bottom: 1px solid #1a1a1a;
   padding-bottom: 2px;
   transition: border-color 0.2s, color 0.2s;
 }
 
 .links a:hover {
-  color: #ffffff;
-  border-color: #aaaaaa;
+  color: #555555;
+  border-color: #383838;
 }
