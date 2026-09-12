@@ -15,7 +15,7 @@ function App() {
         <a href="https://github.com/Lucas-Filla" target="_blank" rel="noreferrer">GitHub</a>
         <a href="https://linkedin.com/in/lucasfilla" target="_blank" rel="noreferrer">LinkedIn</a>
         <a href="mailto:lucasbfilla@gmail.com">Email</a>
-        <a href="/resumes/9112026.pdf" target="_blank">Resume</a>
+        <a href="/resumes/lucas_filla_resume_9112026.pdf" target="_blank">Resume</a>
 
       </div>
     </main>
